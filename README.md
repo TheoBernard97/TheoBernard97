@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Théo. Nice to connect!
+# 👋 Hi, I'm Théo !
 
 ##### I'm a front-end developer working with Vue & React.
 ##### I'm currently working in Paris, France.
