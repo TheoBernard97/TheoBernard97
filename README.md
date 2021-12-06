@@ -17,21 +17,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
 ### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### IDEs & Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/farid-djadda/) 
+[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
 
 ### Stats 📈
 
