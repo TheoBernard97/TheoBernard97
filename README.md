@@ -12,11 +12,15 @@
 ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=#C76293)
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=#2F74C0)
+
+
 
 ### Frameworks & Libraries
 
 ![Vue](https://img.shields.io/badge/-Vue-%2320232a.svg?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.JS](https://img.shields.io/badge/NODE.JS-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#73AA60)
 
 ### Version Control
 
