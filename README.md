@@ -1,8 +1,9 @@
 <p align="center">
-<h1>👋🏽, I am Théo. Nice to connect!</h2> 
+<h1>👋 Hi, I'm Théo. Nice to connect!</h2> 
 </p>
 
-  I'm a front-end developer working with Vue & React.  
+  I'm a front-end developer working with Vue & React.
+  I'm currently working in Paris, France.
 
 ### Languages
 
@@ -23,7 +24,7 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
+[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-black?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/theo-bernard/) 
 
 ### Stats 📈
 
