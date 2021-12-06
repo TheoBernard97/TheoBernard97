@@ -7,24 +7,24 @@
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=#DD4B25)
+![CSS3](https://img.shields.io/badge/-CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=#C76293)
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frameworks & Libraries
 
+![Vue](https://img.shields.io/badge/-Vue-%2320232a.svg?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
 ### Version Control
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=#E84521)
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-black?style=for-the-badge&logo=Linkedin&logoColor)](https://www.linkedin.com/in/theo-bernard/) 
+[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-%2320232a.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
 
 ### Stats 📈
 
