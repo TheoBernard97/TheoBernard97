@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Théo !
 
-##### I'm a front-end developer working with Vue & React.
-##### I'm currently working in Paris, France.
+I'm a front-end developer working with Vue & React.\
+I'm currently working in Paris, France.
 
 ## Languages
 
