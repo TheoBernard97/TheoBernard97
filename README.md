@@ -24,7 +24,7 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-black?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/theo-bernard/) 
+[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-black?style=for-the-badge&logo=Linkedin&logoColor)](https://www.linkedin.com/in/theo-bernard/) 
 
 ### Stats 📈
 
