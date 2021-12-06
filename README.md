@@ -1,11 +1,9 @@
-<p align="center">
-<h1>👋 Hi, I'm Théo. Nice to connect!</h2> 
-</p>
+# 👋 Hi, I'm Théo. Nice to connect!
 
-  I'm a front-end developer working with Vue & React.
-  I'm currently working in Paris, France.
+##### I'm a front-end developer working with Vue & React.
+##### I'm currently working in Paris, France.
 
-### Languages
+## Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=#DD4B25)
 ![CSS3](https://img.shields.io/badge/-CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)
@@ -16,21 +14,21 @@
 
 
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
 ![Vue](https://img.shields.io/badge/-Vue-%2320232a.svg?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#73AA60)
 
-### Version Control
+## Version Control
 
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=#E84521)
 
-#### Social 👥
+## Social 👥
 
 [![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-%2320232a.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
 
-### Stats 📈
+## Stats 📈
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=TheoBernard97&hide=stars&show_icons=true&theme=blueberry&count_private=true" />
 
