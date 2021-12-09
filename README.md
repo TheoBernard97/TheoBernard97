@@ -5,11 +5,11 @@ I'm currently working in Paris, France.
 
 ## Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=#DD4B25)
-![CSS3](https://img.shields.io/badge/-CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)
+[![HTML5](https://img.shields.io/badge/-HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=#DD4B25)](https://github.com/TheoBernard97?tab=repositories&q=&type=&language=html)
+[![CSS3](https://img.shields.io/badge/-CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/TheoBernard97?tab=repositories&q=&type=&language=css)
 ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=#C76293)
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/TheoBernard97?tab=repositories&q=&type=&language=javascript)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=#2F74C0)
 
 
