@@ -27,5 +27,5 @@ I'm currently working in Paris, France.
 
 ## Social
 
-[![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-%2320232a.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%2320232a.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
 
