@@ -18,14 +18,14 @@ I'm currently working in Paris, France.
 
 ![Vue](https://img.shields.io/badge/-Vue-%2320232a.svg?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nuxt](https://img.shields.io/badge/Nuxt-%2320232a.svg?style=for-the-badge&logo=nuxtdotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-%2320232a.svg?style=for-the-badge&logo=nuxt)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#73AA60)
 
 ## Version Control
 
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=#E84521)
 
-## Social 👥
+## Social
 
 [![Linkedin](https://img.shields.io/badge/-Théo%20Bernard-%2320232a.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/theo-bernard/) 
 
